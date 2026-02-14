@@ -1,3 +1,6 @@
 [submodule "microsservices/ordering"]
 	path = microsservices/ordering
 	url = https://github.com/LuisHenriqueJung/algashop-ordering.git
+[submodule "microsservices/docs"]
+	path = microsservices/docs
+	url = https://github.com/LuisHenriqueJung/algashop-docs.git
